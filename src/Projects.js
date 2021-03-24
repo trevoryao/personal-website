@@ -2,6 +2,7 @@ function RenderProjects() {
   return (
     <div>
       <h2 id="projects">My Favourite Projects</h2>
+      <div>
         <h3>vm</h3>
         <p>
           <a href="https://github.com/trevoryao/vm" target="_blank" rel="noreferrer">vm</a> was
@@ -25,6 +26,8 @@ function RenderProjects() {
           including referenced identifiers. It also takes into account function scope when highlighting
           identifiers.
         </p>
+      </div>
+      <div>
         <h3>qmk</h3>
         <p>
           <a href="https://github.com/qmk/qmk_firmware" target="_blank" rel="noreferrer">qmk</a> is an
@@ -34,6 +37,7 @@ function RenderProjects() {
           It features some custom lighting schemes and keymaps. The highlight feature is currently in development, and will use
           the function row leds as a one-dimension volume equaliser display.
         </p>
+      </div>
     </div>
   )
 }

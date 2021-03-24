@@ -1,10 +1,7 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  text-align: left;
+  font-family: "Gill Sans";
+  color: black;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -25,14 +22,18 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #0076db;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Name {
+  color: #0076db;
+  font-size: 44pt;
+  font-weight: bold;
+  padding-left: 20pt;
+  padding-top: 20pt;
+  padding-bottom: 5pt;
+}
+
+.Text {
+  margin-left: 25pt;
 }

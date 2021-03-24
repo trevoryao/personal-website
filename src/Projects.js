@@ -2,7 +2,6 @@ function RenderProjects() {
   return (
     <div>
       <h2 id="projects">My Favourite Projects</h2>
-      <div className="Blurb">
         <h3>vm</h3>
         <p>
           <a href="https://github.com/trevoryao/vm" target="_blank" rel="noreferrer">vm</a> was
@@ -35,7 +34,6 @@ function RenderProjects() {
           It features some custom lighting schemes and keymaps. The highlight feature is currently in development, and will use
           the function row leds as a one-dimension volume equaliser display.
         </p>
-      </div>
     </div>
   )
 }

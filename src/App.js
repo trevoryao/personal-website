@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import RenderNav from './Navbar';
 import RenderAbout from './About';
+import RenderProjects from './Projects';
 
 import './App.css';
 
@@ -11,6 +12,7 @@ function App() {
       <RenderNav />
       <div className="Text">
         <RenderAbout />
+        <RenderProjects />
       </div>
     </div>
   );

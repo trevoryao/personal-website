@@ -2,6 +2,7 @@
   text-align: left;
   font-family: "Gill Sans";
   color: black;
+  font-size: 14pt;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -36,4 +37,18 @@
 
 .Text {
   margin-left: 25pt;
+  margin-right: 25pt;
+}
+
+h2 {
+  color: #0076db;
+  font-weight: bold;
+}
+
+h3 {
+  color: #0076db;
+}
+
+.Blurb {
+  margin-left: 10pt;
 }

@@ -2,8 +2,8 @@
   background-color: #0076db !important;
   width: 100vw;
   padding-bottom: 2vh;
-  padding-left: 1.5vw;
-  padding-right: 2vw;
+  padding-left: 4.5vw;
+  padding-right: 5vw;
   height: max-content;
   color: white;
 }
@@ -17,10 +17,17 @@
   color: black !important;
 }
 
+.Footer img {
+  max-width: 3vw;
+  max-height: 3vh;
+  min-height: 14pt;
+  min-width: 14pt;
+}
+
 .Contact {
   float: left;
-  padding-left: 0.5vw;
-  padding-right: 0.5vw;
+  padding-left: 5pt;
+  padding-right: 5pt;
   padding-top: 5px;
   padding-bottom: 5px;
 }

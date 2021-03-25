@@ -3,6 +3,7 @@
   font-family: "Gill Sans";
   color: black;
   font-size: 14pt;
+  overflow-x: hidden;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -38,14 +39,14 @@
   color: #0076db;
   font-size: 44pt;
   font-weight: bold;
-  padding-left: 1.75vw;
+  padding-left: 4.75vw;
   padding-top: 0.75vw;
   padding-bottom: 0.25vw;
 }
 
 .Text {
-  margin-left: 2vw;
-  margin-right: 2vw;
+  margin-left: 5vw;
+  margin-right: 5vw;
   max-width: 35cm;
 }
 

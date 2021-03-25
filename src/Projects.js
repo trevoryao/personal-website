@@ -17,7 +17,7 @@ function RenderProjects() {
           <li>C/C++ syntax highlighting: including identifiers!</li>
           <li>Nested multipliers and movements</li>
           <li>Regex Text searching</li>
-          <li>Arrow Key Support</li>
+          <li>Arrow Key support</li>
         </ul>
         <p>
           vm was written exclusively in C++ using no external libraries. This was done to reduce
@@ -34,7 +34,7 @@ function RenderProjects() {
           open-source firmware designed specifically for mechanical keyboards. Using this existing 
           firmware, I designed a custom operating system for my mechanical keyboard, 
           the <a href="https://drop.com/buy/drop-ctrl-barebones-mechanical-keyboard" target="_blank" rel="noreferrer">Drop CTRL</a>.
-          It features some custom lighting schemes and keymaps. The highlight feature is currently in development, and will use
+          It features some custom lighting schemes and keymaps. The standout feature is currently in development, and will use
           the function row leds as a one-dimension volume equaliser display.
         </p>
       </div>

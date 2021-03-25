@@ -1,0 +1,32 @@
+.Footer {
+  background-color: #0076db !important;
+  width: 100vw;
+  padding-bottom: 2vh;
+  padding-left: 1.5vw;
+  padding-right: 2vw;
+  height: max-content;
+  color: white;
+}
+
+.Footer a:link, .Footer a:visited {
+  color: white !important;
+}
+
+.Footer a:hover, .Footer a:active {
+  text-decoration: none;
+  color: black !important;
+}
+
+.Contact {
+  float: left;
+  padding-left: 0.5vw;
+  padding-right: 0.5vw;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.Copyright {
+  text-align: right;
+  padding-top: 5px;
+  padding-right: 5px;
+}

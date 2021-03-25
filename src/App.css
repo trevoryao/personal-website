@@ -26,18 +26,27 @@
   color: #0076db;
 }
 
+.Text a:link, .Text a:visited {
+  color: #0076db;
+}
+
+.Text a:hover {
+  color: #1d5281
+}
+
 .Name {
   color: #0076db;
   font-size: 44pt;
   font-weight: bold;
-  padding-left: 20pt;
-  padding-top: 20pt;
-  padding-bottom: 5pt;
+  padding-left: 1.75vw;
+  padding-top: 0.75vw;
+  padding-bottom: 0.25vw;
 }
 
 .Text {
-  margin-left: 25pt;
-  margin-right: 25pt;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  max-width: 35cm;
 }
 
 h2 {

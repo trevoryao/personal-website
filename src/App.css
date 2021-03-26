@@ -27,14 +27,6 @@
   color: #0076db;
 }
 
-.Text a:link, .Text a:visited {
-  color: #0076db;
-}
-
-.Text a:hover {
-  color: #1d5281
-}
-
 .Name {
   color: #0076db;
   font-size: 44pt;
@@ -50,6 +42,23 @@
   max-width: 35cm;
 }
 
+.Text a:link, .Text a:visited {
+  color: #0076db;
+}
+
+.Text a:hover {
+  color: #1d5281
+}
+
+.Text img {
+  max-width: 80vw;
+  max-height: 50vh;
+  padding-bottom: 3vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h2 {
   color: #0076db;
   font-weight: bold;
@@ -57,4 +66,24 @@ h2 {
 
 h3 {
   color: #0076db;
+}
+
+.TextSection {
+  width: 70vw;
+  vertical-align: top;
+  /* display: table-cell; */
+}
+
+.FlexImg {
+  width: 100vw !important;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  /* display: table-row; */
+}
+
+.FlexImg img {
+  padding-right: 5vw;
+  align-items: center;
+  max-width: 20vw;
 }

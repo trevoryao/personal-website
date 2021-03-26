@@ -21,7 +21,7 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://trevoryao.github.io/personal-website",
+  "homepage": "https://trevorjyao.ca",
   "eslintConfig": {
     "extends": [
       "react-app",

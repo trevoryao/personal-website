@@ -3,7 +3,7 @@ function RenderContact() {
     <div>
       <h2 id="contact">Get in Touch</h2>
       <p>
-        I love it when people get in touch! I can always be reached at
+        I love it when people get in touch! I can always be reached 
         via <a href="mailto:trevor.yao@uwaterloo.ca">email</a>.
         All of my projects (and more) can be found on
         my <a href="https://github.com/trevoryao" target="_blank" rel="noreferrer">GitHub</a>, 

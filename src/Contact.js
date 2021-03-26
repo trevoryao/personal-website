@@ -1,3 +1,5 @@
+import pdf from './other/Trevor-Yao-Résumé.pdf'
+
 function RenderContact() {
   return (
     <div>
@@ -10,7 +12,7 @@ function RenderContact() {
         and feel free to reach out
         on <a href="https://www.linkedin.com/in/trevoryao/" target="_blank" rel="noreferrer">LinkedIn</a> as
         well. If you would like a portable, condensed version of this website,
-        feel free to download my <a href="/public/Trevor-Yao-Résumé.pdf" download>résumé</a>.
+        feel free to download my <a href={pdf} download="Trevor-Yao-Résumé.pdf">résumé</a>.
       </p>
     </div>
   )

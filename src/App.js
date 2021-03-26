@@ -13,16 +13,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1 className="Name">Trevor J. Yao</h1>
-      <BrowserView>
-        <RenderNav />
-      </BrowserView>
-      <div className="Text">
-        <RenderAbout />
-        <RenderProjects />
-        {/* <RenderExperience /> */}
-        <RenderSchool />
-        <RenderContact />
+      <div className="ViewingArea">
+        <h1 className="Name">Trevor J. Yao</h1>
+        <BrowserView>
+          <RenderNav />
+        </BrowserView>
+        <div className="Text">
+          <RenderAbout />
+          <RenderProjects />
+          {/* <RenderExperience /> */}
+          <RenderSchool />
+          <RenderContact />
+        </div>
       </div>
       <RenderFooter />
     </div>

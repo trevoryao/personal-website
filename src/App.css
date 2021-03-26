@@ -6,6 +6,12 @@
   overflow-x: hidden;
 }
 
+.ViewingArea {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -34,12 +40,12 @@
   padding-left: 4.75vw;
   padding-top: 0.75vw;
   padding-bottom: 0.25vw;
+  padding-right: 4.75vw;
 }
 
 .Text {
   margin-left: 5vw;
   margin-right: 5vw;
-  max-width: 35cm;
 }
 
 .Text a:link, .Text a:visited {
@@ -69,7 +75,7 @@ h3 {
 }
 
 .TextSection {
-  width: 70vw;
+  width: 50vw;
   vertical-align: top;
   /* display: table-cell; */
 }

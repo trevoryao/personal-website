@@ -18,10 +18,11 @@
 }
 
 .Footer img {
-  max-width: 3vw;
+  /* max-width: 3vw;
   max-height: 3vh;
-  min-height: 14pt;
-  min-width: 14pt;
+  min-height: 18pt;
+  min-width: 18pt; */
+  height: 24px;
 }
 
 .Contact {

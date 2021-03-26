@@ -1,3 +1,5 @@
+import vmDemo from './img/vm.jpg'
+
 function RenderProjects() {
   return (
     <div>
@@ -19,6 +21,7 @@ function RenderProjects() {
           <li>Regex Text searching</li>
           <li>Arrow Key support</li>
         </ul>
+        <img src={vmDemo} alt="vm Demo Screen" />
         <p>
           vm was written exclusively in C++ using no external libraries. This was done to reduce
           possible inefficiencies caused by third-party libraries. This was also a demonstration in

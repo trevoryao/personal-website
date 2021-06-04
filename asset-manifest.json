@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4b81b00.chunk.css",
+    "main.js": "/static/js/main.3423fccd.chunk.js",
+    "main.js.map": "/static/js/main.3423fccd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d7994a7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d7994a7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dda7e670.chunk.js": "/static/js/2.dda7e670.chunk.js",
+    "static/js/2.dda7e670.chunk.js.map": "/static/js/2.dda7e670.chunk.js.map",
+    "static/js/3.1a3ad705.chunk.js": "/static/js/3.1a3ad705.chunk.js",
+    "static/js/3.1a3ad705.chunk.js.map": "/static/js/3.1a3ad705.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.d4b81b00.chunk.css.map": "/static/css/main.d4b81b00.chunk.css.map",
+    "static/js/2.dda7e670.chunk.js.LICENSE.txt": "/static/js/2.dda7e670.chunk.js.LICENSE.txt",
+    "static/media/Trevor-Yao-Résumé.0aa26844.pdf": "/static/media/Trevor-Yao-Résumé.0aa26844.pdf",
+    "static/media/email-icon.2e5f18c4.png": "/static/media/email-icon.2e5f18c4.png",
+    "static/media/personal-photo.48d94877.jpg": "/static/media/personal-photo.48d94877.jpg",
+    "static/media/vm.25336c55.jpg": "/static/media/vm.25336c55.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d7994a7.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dda7e670.chunk.js",
+    "static/css/main.d4b81b00.chunk.css",
+    "static/js/main.3423fccd.chunk.js"
+  ]
+}

@@ -8,9 +8,8 @@ function RenderAbout() {
       <h2 id="about">About Me</h2>
         <p>
           Hey, I'm Trevor &mdash; a software developer and student at the University of Waterloo.
-          Currently, I'm working at Sun Life Financial as a DevOps Engineer, and will be transitioning
-          to a Data &amp; Analytics (Big Data) development role in May 2021.
-          I've worked in the past as a software developer, and that is my primary/preferred role, but I am
+          Currently, I'm working at Sun Life Financial as a Software Engineer on the Data &amp; Analytics
+          team, and I've also worked in the past as a DevOps Engineer. I'm primarily a software developer, but I am
           flexible &mdash; I excel at all development roles.
           My current passions are low-powered embedded systems &amp; machine learning. I believe that
           combining these two fields will be the future of the computer science industry.

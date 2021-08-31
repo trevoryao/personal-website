@@ -6,15 +6,15 @@ function RenderExperience() {
       <h2 id="experience">My Experience</h2>
       <div>
         <p>
-          I'm currently working as a Software Engineer at Sun Life on the Data &amp; Analytics team.
-          Our projects are mostly related to acquiring and processing large datasets, working with data
+          My last co-op was as a Data Engineer at Sun Life on the Data &amp; Analytics team.
+          Our projects were mostly related to acquiring and processing large datasets, working with data
           scientists to process data as securely and efficiently as possible for them, and creating
-          machine learning modules. One of the projects that I am working on involves sourcing and processing
+          machine learning modules. One of the projects that I worked on involved sourcing and processing
           over 3 TB of audio data per month for a speech-based detection model. 
         </p>
         <p>
-          The engineering team is quite small, so we are responsible for supporting our own development in terms 
-          of DevOps. We also handle our own unit-testing and load-testing. Rather than hosting all of our services, we use a collection of microservices to host
+          The engineering team was quite small, so we were responsible for supporting our own development in terms 
+          of DevOps. We also handled our own unit-testing and load-testing. Rather than hosting all of our services, we used a collection of microservices to host
           various services, and store data in on-site servers.  Some of the microservices &amp; their uses are:
         </p>
         <ul>

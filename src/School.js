@@ -3,9 +3,9 @@ function RenderSchool() {
     <div>
       <h2 id="school">School</h2>
       <p>
-        I'm in my 2A term at
+        I'm in my 2B term at
         the <a href="https://cs.uwaterloo.ca" target="_blank" rel="noreferrer">University of Waterloo</a> in
-        Ontario, Canada. I am majoring in Computer Science, with a minor in Pure Mathematics. I am currently on
+        Ontario, Canada. I am majoring in Computer Science, with a minor in Pure Mathematics. I was previously currently on
         two consecutive work terms due to the COVID-19 pandemic and course-selection timings. My current major
         average is 92%.
       </p>

@@ -6,7 +6,7 @@ function RenderAbout() {
       <h2 id="about">About Me</h2>
         <p>
           Hey, I'm Trevor &mdash; a software engineer and student at the University of Waterloo.
-          Currently, I'm working at Autonomic as a Software Engineer on the Development &amp; Deployment Team: the DevOps team.
+          Currently, I'm working at Autonomic as a Software Engineer on the Development &amp; Deployment Team: the DevOps team. I will be returning to AU to work on the messaging connectivity team.
           I've worked previously as a DevOps Engineer and Data Engineer (separately) at Sun Life Financial, and also as a full stack developer.
           I'm language/framework agnostic, and love diving into new challenges.
           Currently interested in real-time and distributed systems, and I enjoy writing low-level OS code.

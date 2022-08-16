@@ -6,7 +6,10 @@ function RenderExperience() {
       <h2 id="experience">My Experience</h2>
       <div>
         <p>
-          My last co-op was as a Data Engineer at Sun Life on the Data &amp; Analytics team.
+          Currently, I am a Software Engineer at Autonomic on the Development &amp; Deployment team.
+        </p>
+        <p>
+          Previously, I was a Data Engineer at Sun Life on the Data &amp; Analytics team.
           Our projects were mostly related to acquiring and processing large datasets, working with data
           scientists to process data as securely and efficiently as possible for them, and creating
           machine learning modules. One of the projects that I worked on involved sourcing and processing

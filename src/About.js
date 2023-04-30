@@ -5,18 +5,22 @@ function RenderAbout() {
     <div>
       <h2 id="about">About Me</h2>
         <p>
-          Hey, I'm Trevor &mdash; a software engineer and student at the University of Waterloo.
-          Currently, I'm working at Autonomic as a Software Engineer on the Development &amp; Deployment Team: the DevOps team. I will be returning to AU to work on the messaging connectivity team.
-          I've worked previously as a DevOps Engineer and Data Engineer (separately) at Sun Life Financial, and also as a full stack developer.
-          I'm language/framework agnostic, and love diving into new challenges.
-          Currently interested in real-time and distributed systems, and I enjoy writing low-level OS code.
+          Hey, I'm Trevor &mdash; a software engineer and student at the University of Waterloo,
+          graduating in December 2023. I previously interned at Autonomic working on connecting
+          our IoT vehicles to the Transport Mobility Cloud (TMC), scaling up MQTT Brokers and
+          highly concurrent Kafka Microservices, serving over 9 million vehicles worldwide.
+          Also vastly experienced in DevOps and Data
+          Engineering, and even an occasional full stack developer. I'm language/framework agnostic,
+          and love diving into new challenges. Interested in distributed systems, and efficient
+          concurrent processes. Also enjoy writing low-level OS code.
         </p>
         <img src={personalPhoto} alt="Trevor J. Yao" />
         <p>
           Outside of work &amp; school, some of my passions include football &mdash; I'm a childhood Manchester United
           fan, and I build custom mechanical keyboards in my spare time (Feel free to ask me more
           about these!). These hobbies also inspire some of my more casual <a href="#projects">projects</a>.
-          I'm also an ex-musician and pilot, and I enjoy cooking &amp; exploring nature during my down time.
+          I'm also an ex-musician and pilot, and a home-cook.
+          I also enjoy exploring the nature of south-western Ontario, where I live.
         </p>
     </div>
   )

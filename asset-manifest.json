@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d4b81b00.chunk.css",
-    "main.js": "/static/js/main.393031ec.chunk.js",
-    "main.js.map": "/static/js/main.393031ec.chunk.js.map",
+    "main.js": "/static/js/main.52c061b8.chunk.js",
+    "main.js.map": "/static/js/main.52c061b8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0d7994a7.js",
     "runtime-main.js.map": "/static/js/runtime-main.0d7994a7.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -15,8 +15,8 @@
     "static/css/main.d4b81b00.chunk.css.map": "/static/css/main.d4b81b00.chunk.css.map",
     "static/js/2.0872cfc9.chunk.js.LICENSE.txt": "/static/js/2.0872cfc9.chunk.js.LICENSE.txt",
     "static/media/email-icon.2e5f18c4.png": "/static/media/email-icon.2e5f18c4.png",
-    "static/media/personal-photo.48d94877.jpg": "/static/media/personal-photo.48d94877.jpg",
-    "static/media/trevor-j-yao-resume.383ea2b0.pdf": "/static/media/trevor-j-yao-resume.383ea2b0.pdf",
+    "static/media/personal-photo.257fdbb3.jpg": "/static/media/personal-photo.257fdbb3.jpg",
+    "static/media/trevor-j-yao-resume.3e32d8e0.pdf": "/static/media/trevor-j-yao-resume.3e32d8e0.pdf",
     "static/media/vm.25336c55.jpg": "/static/media/vm.25336c55.jpg"
   },
   "entrypoints": [
@@ -24,6 +24,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.0872cfc9.chunk.js",
     "static/css/main.d4b81b00.chunk.css",
-    "static/js/main.393031ec.chunk.js"
+    "static/js/main.52c061b8.chunk.js"
   ]
 }

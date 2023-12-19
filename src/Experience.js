@@ -42,7 +42,7 @@ function RenderExperience() {
           Working on such a small team was definitely a unique experience, since I had to very quickly become
           responsible for the parts and tasks that I was owning. It was an awesome experience to contribute
           in such a large quantity to a service with as high a throughput as it ultimately did. This role also
-          allowed me to contribute to open-source repos, which I value greatly as a part of the community.
+          allowed me to contribute to open-source repos, which was awesome since I got to be part of the dev community.
         </p>
       </div>
     </div>

@@ -3,14 +3,26 @@ function RenderSchool() {
     <div>
       <h2 id="school">School</h2>
       <p>
-        I'm in my 4A term at
-        the <a href="https://cs.uwaterloo.ca" target="_blank" rel="noreferrer">University of Waterloo</a> in
-        Ontario, Canada. I'll be graduating soon in December 2023.
-        I am majoring in Computer Science, with a minor in Pure Mathematics. My cumulative average
-        is 88% (4.0 GPA).
+        I recently graduated from the <a href="https://cs.uwaterloo.ca" target="_blank" rel="noreferrer">University of Waterloo</a> in Ontario, Canada.
+        I attained my Honour's Bachelor of Computer Science with a minor in Pure Mathematics,
+        and graduated with Dean's Honours, the highest award of academic excellence.
+        This seems to be the rough equivalent of a 4.0 GPA at other schools, since we don't use a GPA scale, but rather just percentages.
+        For those curious, my final GPA was approximately 89%.
       </p>
       <p>
-        My most challenging (but rewarding) course to date that I've taken
+        In my last term, I took the infamous Trains Course, officially known as <a href="https://cs.uwaterloo.ca/current/courses/course_descriptions/cDescr/CS452" target="_blank" rel="noreferrer">CS 452</a>.
+        This course is widely known as the most challenging course at the university, and by the end of our term,
+        only 13 (yes, thirteen!) students were still enrolled. The course is extremely free-form, in the sense that
+        we were only given very loose requirements for each stage of our microkernel and project, and were given the
+        freedom and responsibility to deviate from it. You can read more about what we designed <a href="#trains">here</a>.
+        This course was an experience. For the first six weeks, we built our own custom microkernel.
+        Then, for the last six-ish weeks, we wrote complex programs and algorithms to accomplish different kinds of train control.
+        These last six weeks, we spent almost every single day in the lab, dealing with every single kind of challenge with the trains and tracks.
+        The lesson learned I learned is that designing software is (relatively) easy, since our kernel was absolutely solid.
+        What is in-fact hard is dealing with physical objects, which can be completely arbitrary and unpredictable, at least in the case of trains.
+      </p>
+      <p>
+        Another challenging (but rewarding) course to date that I've taken
         is <a href="https://cs.uwaterloo.ca/current/courses/course_descriptions/cDescr/CS343" target="_blank" rel="noreferrer">CS 343</a>.
         In this course, we were taught general concurrency methods and concepts,
         implementing many common locks and patterns by scratch. The course

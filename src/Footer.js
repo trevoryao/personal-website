@@ -24,7 +24,7 @@ function RenderFooter() {
           </a>
         </div>
         <div className="Copyright">
-          &#169; 2022 Trevor J. Yao.
+          &#169; 2024 Trevor J. Yao.
         </div>
       </div>
     </div>

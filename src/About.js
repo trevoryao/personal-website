@@ -5,11 +5,11 @@ function RenderAbout() {
     <div>
       <h2 id="about">About Me</h2>
         <p>
-          Hey, I'm Trevor &mdash; a software engineer who just graduated from the
-          University of Waterloo in December 2023. I previously interned at Autonomic working on connecting
-          our IoT vehicles to the Transport Mobility Cloud (TMC), scaling up MQTT Brokers and
+          Hey, I'm Trevor &mdash; a software engineer working at Instacart on the ML Foundations Team,
+          which is the main MLOps team here at Instacart. I recently graduated from the
+          University of Waterloo in December 2023. During my undergrad, I interned at Autonomic working on connecting
+          IoT-enabled Ford vehicles to the Transport Mobility Cloud (TMC), scaling up MQTT Brokers and
           highly concurrent Kafka Microservices, serving over 9 million vehicles worldwide.
-          After our company was absorbed by Ford, I'm now looking for a new role.
           As well, I am vastly experienced in DevOps and Data
           Engineering, and even an occasional full stack developer. I'm language/framework agnostic,
           and love diving into new challenges. Interested in distributed systems, and efficient

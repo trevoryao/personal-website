@@ -1,14 +1,14 @@
 // My Experience
 
-/*
- * start going in depth into experiences on DnD, Hydra, performance levels
- */
-
 function RenderExperience() {
   return (
     <div>
       <h2 id="experience">My Experience</h2>
       <div>
+        <p>
+          Currently, I am working at the grocery delivery giant Instacart on the ML Foundations team, helping build
+          the primary MLOps platform at Instacart &mdash; <a href="https://tech.instacart.com/introducing-griffin-2-0-instacarts-next-gen-ml-platform-b7331e73b8d7" target="_blank" rel="noreferrer">Griffin</a>.
+        </p>
         <p>
           Previously, I worked at <a href="https://autonomic.com" target="_blank" rel="noreferrer">Autonomic</a>,
           until the company was absorbed into Ford. I worked on our Message Connectivity and Development &amp;

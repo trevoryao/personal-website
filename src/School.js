@@ -3,7 +3,7 @@ function RenderSchool() {
     <div>
       <h2 id="school">School</h2>
       <p>
-        I recently graduated from the <a href="https://cs.uwaterloo.ca" target="_blank" rel="noreferrer">University of Waterloo</a> in Ontario, Canada.
+        I recently graduated from the <a href="https://cs.uwaterloo.ca" target="_blank" rel="noreferrer">University of Waterloo</a> (Ontario, Canada) in December of 2023.
         I attained my Honour's Bachelor of Computer Science with a minor in Pure Mathematics,
         and graduated with Dean's Honours, the highest award of academic excellence.
         This seems to be the rough equivalent of a 4.0 GPA at other schools, since we don't use a GPA scale, but rather just percentages.
